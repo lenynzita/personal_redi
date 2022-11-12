@@ -1,0 +1,55 @@
+body{
+    background-color: antiquewhite;
+}
+.indexh1{
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+.row{
+    border: none ;
+    background-image: url('soccer.jpg');
+    background-repeat:no-repeat ;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+    background-position: center;
+}
+
+input{
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-family: 'Berkshire Swash', cursive;
+}
+.btn{
+        background-color: #4CAF50; /* Green */
+        border: none;
+        color: white;
+        padding: 16px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        transition-duration: 0.4s;
+        border-radius: 10px;
+        cursor: pointer;
+        font-family: 'Berkshire Swash', cursive;
+}
+.btn {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+  }
+  
+  .btn:hover {
+    background-color: #008CBA;
+    color: white;
+  }
+  .soccer{
+    font-family: 'Berkshire Swash', cursive;
+    color: lightskyblue;
+  }
